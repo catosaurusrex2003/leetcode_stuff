@@ -56,8 +56,8 @@ def isValidSudoku(board):
     return True
 
 
-meow = isValidSudoku(board)
-print(meow)
+something = isValidSudoku(board)
+print(something)
 
 
 # for i in range(9):
